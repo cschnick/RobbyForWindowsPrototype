@@ -18,7 +18,7 @@ in that position is Off and an O indicates the LED in that position is On. This
 Robby uses keyboard input to change states whereas the RPi version will use 
 lights in the pinball machine to trigger states.
 
-Robby uses threading a config file.
+Robby uses threading and a config file.
 
 On the Windows version, keyboard input is used to trigger the events to alter 
 the light show as follows: 
