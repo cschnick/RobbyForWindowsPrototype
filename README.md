@@ -33,7 +33,7 @@ the light show as follows:
 				  morse code complies with International Morse Code Standards.
 				  The Morse Code is run in its own thread so that the timing 
 				  is Not interferred. This application also uses a config 
-				  file to all the implimentation to specifiy the message that 
+				  file to allow the implimentation to specifiy the message that 
 				  Robby will blink in Morse Code.  
 
 'keyboard' is included as it has been modified from the base keyboard-0.13.2 
